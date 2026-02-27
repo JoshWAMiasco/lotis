@@ -1,5 +1,3 @@
-# lotis_manager_app
-
 ⚠️ Disclaimer:
 This project is provided for educational and research purposes.
 The author is not responsible for any damage, data loss, agricultural loss,
