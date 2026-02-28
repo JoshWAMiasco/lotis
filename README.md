@@ -12,3 +12,6 @@ https://github.com/JoshWAMiasco/lotis/wiki
 
 Hardware Images:
 https://github.com/JoshWAMiasco/lotis/wiki/Hardware-Overview
+
+Wiring diagram:
+https://github.com/JoshWAMiasco/lotis/wiki/Wiring-Diagram
